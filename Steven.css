@@ -1,0 +1,32 @@
+#Profile
+{
+    display: flex;
+
+}
+#div1{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:red;
+}
+h3{
+display: flex;
+justify-content: center;
+align-items: center;
+color:red
+}
+h4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h2{
+    font-style:italic;
+    margin-left: 150px;
+    font-size: 30px;
+    text-decoration: underline;
+}
